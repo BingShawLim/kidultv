@@ -16,6 +16,7 @@ before_action :require_authorized_for_current_course, only: [:show]
   end
 
   def show
+    @section = Section.new
   end
 
   private
@@ -34,5 +35,4 @@ before_action :require_authorized_for_current_course, only: [:show]
   def course_params
     params.require(:course).permit(:title, :description, :cost, :image)
   end
-
 end
