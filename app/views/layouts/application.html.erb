@@ -60,9 +60,43 @@
 
   <div id="footer">
     <div class="container">
-      <b>Nerd-Lords</b>
-      <br />
-      <%= link_to 'Teach a Course', new_instructor_course_path %>
+      <div class="row">
+      <div class="col-12 col-sm-3">
+        <b class="ftr-title">Nerd-Lords</b>
+        <hr class="ftr-line">
+        <%= link_to 'Teach a Course', new_instructor_course_path %>
+        <br />
+        <%= link_to 'My Dashboard', dashboard_path %>
+      </div>
+      <div class="col-12 col-sm-3">
+        <b class="ftr-title">About</b>
+        <hr class="ftr-line">
+        <%= link_to 'Team', '#' %>
+        <br />
+        <%= link_to 'Careers', '#' %>
+        <br />
+        <%= link_to 'Privacy Policy', '#' %>
+      </div>
+      <div class="col-12 col-sm-3">
+        <b class="ftr-title">Contact</b>
+        <hr class="ftr-line">
+        shaw.a.muvee@gmail.com
+        <br />
+      </div>
+      <div class="col-12 col-sm-3 social">
+        <b class="ftr-title">Social</b>
+        <hr class="ftr-line">
+        <br />
+        <%= link_to 'https://github.com/BingShawLim' do %>
+         <span class="fab fa-github-square fa-2x social-button"></span>
+         <% end %>
+         <%= link_to 'https://twitter.com/limbingshaw1' do %>
+         <span class="fab fa-linkedin fa-2x social-button"></span>
+         <% end %>
+         <%= link_to 'https://www.linkedin.com/in/bing-shaw-lim-a917b274/' do %>
+         <span class="fab fa-twitter-square fa-2x social-button"></span>
+         <% end %>
+    </div>
     </div>
   </div>
 
