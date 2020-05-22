@@ -1,24 +1,46 @@
-# README
+## Table of contents
+* [General info](#general-info)
+* [Screenshots](#screenshots)
+* [Technologies](#technologies)
+* [Setup](#setup)
+* [Features](#features)
+* [Status](#status)
+* [Inspiration](#inspiration)
+* [Contact](#contact)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## General info
+Add more general information about project. What the purpose of the project is? Motivation?
 
-Things you may want to cover:
+## Screenshots
+![Example screenshot](./img/screenshot.png)
 
-* Ruby version
+## Technologies
+* Tech 1 - version 1.0
+* Tech 2 - version 2.0
+* Tech 3 - version 3.0
 
-* System dependencies
+## Setup
+Describe how to install / setup your local environement / add link to demo version.
 
-* Configuration
+## Code Examples
+Show examples of usage:
+`put-your-code-here`
 
-* Database creation
+## Features
+List of features ready and TODOs for future development
+* Awesome feature 1
+* Awesome feature 2
+* Awesome feature 3
 
-* Database initialization
+To-do list:
+* Wow improvement to be done 1
+* Wow improvement to be done 2
 
-* How to run the test suite
+## Status
+Project is: _in progress_, _finished_, _no longer continue_ and why?
 
-* Services (job queues, cache servers, search engines, etc.)
+## Inspiration
+Add here credits. Project inspired by..., based on...
 
-* Deployment instructions
-
-* ...
+## Contact
+Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
