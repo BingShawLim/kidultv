@@ -1,3 +1,6 @@
+# catchoftheday1
+A fish market platform built with React.
+
 ## Table of contents
 * [General info](#general-info)
 * [Screenshots](#screenshots)
