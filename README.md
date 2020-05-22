@@ -5,6 +5,7 @@ https://kidultv-1.herokuapp.com
 ## Screenshots
 ![Example screenshot](./kidultv.JPG)
 
+
 ## Technologies
 * Ruby
 * Rails
